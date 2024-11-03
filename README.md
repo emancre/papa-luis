@@ -1,4 +1,4 @@
-# papa-luis
+# primer repo
 primer repo creado en github
 
 ## descripción
